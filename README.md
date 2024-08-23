@@ -77,5 +77,10 @@ In this section user can dynamical select categories and analyse the patterns or
 
 ### Streamlit Images
 
+![Home](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/Home.JPG)
+![Price Analysis](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/Price.JPG)
+![Availabilty Analysis](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/availabilty.JPG)
+![Property Analysis](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/property.JPG)
+![Categorical Analysis](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/categorical.JPG)
 
 ### PowerBI Dashboard
