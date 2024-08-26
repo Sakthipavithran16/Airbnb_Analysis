@@ -84,3 +84,5 @@ In this section user can dynamical select categories and analyse the patterns or
 ![Categorical Analysis](https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/categorical.JPG)
 
 ### PowerBI Dashboard
+
+(https://github.com/Sakthipavithran16/Airbnb_Analysis/blob/main/Dashboard_image/PowerBI%20dashboard.JPG)
